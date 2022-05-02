@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Artem Korneyasev. I am front-end developer on React from Saint-Petersburg.
+- 👋 Hi, my name is Artem Korneyasev. I am frontend developer on React from Saint-Petersburg.
 - 📫 You can reach me in [Telegram](https://t.me/artem_korneyasev)
 
 <!---
